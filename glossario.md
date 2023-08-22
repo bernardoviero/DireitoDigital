@@ -24,3 +24,8 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
 * Suporte imediato ao Cliente
 * Respeito ai Direito de Arrependimento do Consumidor
 * Clareza na Disponibilidade das Informações
+### Procon
+É uma fundação que está Presente em todos os estados brasileiros, com personalidade jurídica de direito público. É uma entidade vinculada à Secretaria Estadual da Justiça e da Defesa da Cidadania, cujo objetivo é elaborar e executar a política estadual de proteção e defesa do consumidor. O instituto presta atendimento pessoal a todo consumidor que encontre problemas ou dúvidas no mercado de consumo, dentre:
+* Compra de produtos (por pessoa física)*.
+* Contratação de serviços (por pessoa física)*.
+* Serviços oferecidos por instituições financeiras.
