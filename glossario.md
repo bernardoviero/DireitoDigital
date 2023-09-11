@@ -29,3 +29,40 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
 * Compra de produtos (por pessoa física)*.
 * Contratação de serviços (por pessoa física)*.
 * Serviços oferecidos por instituições financeiras.
+
+  
+## Direito à privacidade:
+  O “direito de ser deixado só”, que remete à não interferência pelo Estado na vida do indivíduo. Todavia, deve-se entender a privacidade não apenas como a não interferência do Estado na vida do indivíduo, mas também
+  como o poder de se reivindicar ao Estado a tutela dessa privacidade, protegendo o indivíduo de terceiros.
+
+### Direito de imagem e honra:
+  Direito de imagem é aquele que garante às pessoas o controle e a proteção sobre o uso de sua imagem, impedindo que ela seja reproduzida, divulgada ou explorada comercialmente sem autorização prévia e expressa.
+
+### Direito ao anonimato:
+  Anonimato é qualidade do que é anônimo, sem nome, uma condição para não revelar a verdadeira identidade daquele que declara. 
+  
+  O anonimato pode ser uma condição importante para o exercício da democracia, como por exemplo em caso de denúncias anônimas ou para proteger a identidade de uma fonte jornalística.
+  
+  A constituição federal afirma que é livre a manifestação do pensamento, mas veda o anonimato. A livre expressão da opinião é um direito garantido pela constituição brasileira, mas também o é o direito de resposta e à 
+  indenização por danos morais, razões pelas quais o anonimato não é permitido.
+
+### Direito à informação:
+  O direito à informação é direito básico do consumidor e visa assegurar, ao mesmo tempo, uma escolha consciente, permitindo que suas expectativas em relação ao produto ou ao serviço sejam de fato atingidas, 
+  manifestando o que vem sendo denominado de consentimento informado ou vontade qualificada.
+
+
+### Direito ao sigilo:
+  O inciso XII do artigo 5o de nossa Constituição Federal garante à população brasileira o sigilo da correspondência, das comunicações telegráficas, de dados e das comunicações telefônicas, mas também permite sua 
+  violação em investigações e processos criminais, com ordem judicial.
+
+
+### Direito de igualdade:
+  Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à 
+  propriedade, nos termos seguintes.
+  O princípio da igualdade pressupõe que as pessoas colocadas em situações diferentes sejam tratadas de forma desigual: “Dar tratamento isonômico às partes significa tratar igualmente os iguais e desigualmente os   
+  desiguais, na exata medida de suas desigualdades”.
+
+
+### Direito à segurança:
+  O direito à segurança, espécie de direito social, traz para o Estado o dever de implementar políticas públicas de segurança que garantam aos cidadãos o direito de ir, vir e transitar com tranqüilidade nos locais 
+  públicos e, também, assegurem a defesa de sua integridade física e de seu patrimônio.
