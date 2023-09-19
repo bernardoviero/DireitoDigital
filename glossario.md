@@ -79,6 +79,8 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
   * Ataques de ransomware 
   * Jogos de azar ilegais
   * Venda de itens ilegais on-line
+  
+  
   Os crimes cibernéticos que usam computadores para cometer outros crimes podem envolver o uso de computadores ou redes para disseminar malware e informações ou imagens ilegais. Os cibercriminosos estão frequentemente fazendo as duas coisas ao mesmo tempo. Primeiro, eles podem atacar computadores com vírus e, depois, usá-los para espalhar malware para outras máquinas ou por toda a rede.
 
 
