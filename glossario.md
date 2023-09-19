@@ -66,3 +66,23 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
 ### Direito à segurança:
   O direito à segurança, espécie de direito social, traz para o Estado o dever de implementar políticas públicas de segurança que garantam aos cidadãos o direito de ir, vir e transitar com tranqüilidade nos locais 
   públicos e, também, assegurem a defesa de sua integridade física e de seu patrimônio.
+
+
+## Outsourcing 
+  No mundo dos negócios, o outsourcing é um processo usado por uma empresa no qual outra organização é contratada para desenvolver uma certa área da empresa. Em inglês, a palavra "out" significa "fora", e "source" significa "fonte", ou seja, a expressão remete para uma fonte que está no exterior. Assim, uma empresa procura uma fonte no exterior que possa trabalhar uma área do negócio de forma mais eficiente, obtendo desta forma mais tempo para se concentrar nos aspectos fulcrais da gestão empresarial. O outsourcing está intimamente relacionado com a sub-contratação (PJ) de serviços e na grande maioria dos casos, é capaz de tornar uma empresa mais rentável, porque a contratação de empresas externas especializadas pode representar uma grande vantagem para a empresa contratadora. O outsourcing confere uma maior visibilidade dos custos e coloca mais recursos humanos e tecnologia ao dispor da empresa.
+
+
+## Crimes Cibernéticos
+  O crime cibernético visa danificar computadores ou redes por outros motivos que não o lucro. Nesses casos, os motivos podem ser pessoais ou políticos. Os cibercriminosos que visam computadores podem infectá-los com malware para danificar os dispositivos ou impedi-los de funcionar.
+  Exemplos:
+  * Fraude por e-mail e pela Internet
+  * Ataques de ransomware 
+  * Jogos de azar ilegais
+  * Venda de itens ilegais on-line
+  Os crimes cibernéticos que usam computadores para cometer outros crimes podem envolver o uso de computadores ou redes para disseminar malware e informações ou imagens ilegais. Os cibercriminosos estão frequentemente fazendo as duas coisas ao mesmo tempo. Primeiro, eles podem atacar computadores com vírus e, depois, usá-los para espalhar malware para outras máquinas ou por toda a rede.
+
+
+## Legítima defesa na internet
+  Para combater a problemática gerada pela criminalidade digital, a impunidade e o prejuízo econômico, financeiro e social causado por estes delitos, precisamos adequar instituições e institutos jurídicos ao atendimento destas demandas. Na perspectiva de enfrentamento dos crimes digitais, a necessidade de proteção da informação e de outros ativos intangíveis ganham destaque e inspiram o tema proposto neste trabalho.
+  Conforme o artigo 25 do Código Penal (CP), "entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem".
+  Deste modo, diante de por exemplo uma pessoa é ameaçada de uma arma de fogo, a mesma tem o direito de se defender e proteger a própria vida, deste modo a mesma tem autorização e a legalidade de agir em legítima defesa, pois a pessoa ameaçada tem como objetivo proteger a própria vida, que é considerado legalmente como um bem de extremo valor. Vale destacar ainda que em situações como diante de um naufrágio a pessoa tem o direito de pegar o colete salva vida do outrem com o objetivo de salvar a própria vida,
