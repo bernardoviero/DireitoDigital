@@ -93,14 +93,14 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
 
 ## Licenças
 
- - Para que serve ?
+### Para que serve ?
 * Definir Direitos de Uso: Uma licença determina como o software pode ser usado, como se pode instalá-lo, executá-lo, copiá-lo e redistribuí-lo.
   
 * Proteger Propriedade Intelectual: Elas ajudam a proteger os direitos autorais e outros direitos de propriedade intelectual associados ao software, garantindo que o criador seja reconhecido e que o software não seja usado de maneira não autorizada.
   
 * Promover Colaboração: Em licenças de código aberto, elas incentivam a colaboração e o compartilhamento, permitindo que outros desenvolvedores contribuam e melhorem o software.
 
-- O que é:
+### O que é:
   
 * Software Proprietário: É um software cujo código-fonte não é disponibilizado publicamente, e seu uso é geralmente limitado por uma licença paga. Os usuários têm acesso apenas ao software compilado e não podem ver ou modificar o código-fonte.
   
@@ -124,7 +124,7 @@ No GitHub, quando um repositório é criado, os desenvolvedores podem escolher a
 
 ## Direito Autoral
 
-- A Lei nº. 9.609/98, também conhecida como a "Lei de Software" no Brasil, estabelece as regras e direitos relacionados a software como obra autoral. Essa legislação foi criada para proteger os direitos autorais e regulamentar a utilização, reprodução, distribuição e comercialização de programas de computador no país.
+### A Lei nº. 9.609/98, também conhecida como a "Lei de Software" no Brasil, estabelece as regras e direitos relacionados a software como obra autoral. Essa legislação foi criada para proteger os direitos autorais e regulamentar a utilização, reprodução, distribuição e comercialização de programas de computador no país.
 
 * Definição de Software: A lei define software como um conjunto organizado de instruções em linguagem natural ou codificada, contida em suporte físico ou lógico, de maneira que seja capaz de fazer um computador funcionar de uma determinada maneira.
 
