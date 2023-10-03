@@ -86,5 +86,55 @@ Sob a perspectiva do direito do consumidor, a prestação dos serviços pelas re
 
 ## Legítima defesa na internet
   Para combater a problemática gerada pela criminalidade digital, a impunidade e o prejuízo econômico, financeiro e social causado por estes delitos, precisamos adequar instituições e institutos jurídicos ao atendimento destas demandas. Na perspectiva de enfrentamento dos crimes digitais, a necessidade de proteção da informação e de outros ativos intangíveis ganham destaque e inspiram o tema proposto neste trabalho.
+
+  
   Conforme o artigo 25 do Código Penal (CP), "entende-se em legítima defesa quem, usando moderadamente dos meios necessários, repele injusta agressão, atual ou iminente, a direito seu ou de outrem".
-  Deste modo, diante de por exemplo uma pessoa é ameaçada de uma arma de fogo, a mesma tem o direito de se defender e proteger a própria vida, deste modo a mesma tem autorização e a legalidade de agir em legítima defesa, pois a pessoa ameaçada tem como objetivo proteger a própria vida, que é considerado legalmente como um bem de extremo valor. Vale destacar ainda que em situações como diante de um naufrágio a pessoa tem o direito de pegar o colete salva vida do outrem com o objetivo de salvar a própria vida,
+  Deste modo, diante de por exemplo uma pessoa é ameaçada de uma arma de fogo, a mesma tem o direito de se defender e proteger a própria vida, deste modo a mesma tem autorização e a legalidade de agir em legítima defesa, pois a pessoa ameaçada tem como objetivo proteger a própria vida, que é considerado legalmente como um bem de extremo valor. Vale destacar ainda que em situações como diante de um naufrágio a pessoa tem o direito de pegar o colete salva vida do outrem com o objetivo de salvar a própria vida.
+
+## Licenças
+
+ - Para que serve ?
+* Definir Direitos de Uso: Uma licença determina como o software pode ser usado, como se pode instalá-lo, executá-lo, copiá-lo e redistribuí-lo.
+  
+* Proteger Propriedade Intelectual: Elas ajudam a proteger os direitos autorais e outros direitos de propriedade intelectual associados ao software, garantindo que o criador seja reconhecido e que o software não seja usado de maneira não autorizada.
+  
+* Promover Colaboração: Em licenças de código aberto, elas incentivam a colaboração e o compartilhamento, permitindo que outros desenvolvedores contribuam e melhorem o software.
+
+- O que é:
+  
+* Software Proprietário: É um software cujo código-fonte não é disponibilizado publicamente, e seu uso é geralmente limitado por uma licença paga. Os usuários têm acesso apenas ao software compilado e não podem ver ou modificar o código-fonte.
+  
+* Software de Domínio Público: É um software que não possui restrições de direitos autorais e pode ser usado, modificado e redistribuído livremente, sem necessidade de atribuição ou pagamento.
+  
+* Adware: É um software gratuito que exibe anúncios enquanto é usado. Os anúncios geralmente subsidiam o custo do software para o usuário.
+  
+* Freeware: É um software gratuito que pode ser usado sem custo, mas geralmente não permite modificações no código-fonte. A maioria das vezes, o código-fonte não é disponibilizado.
+  
+* Shareware: É um software que pode ser testado gratuitamente por um período limitado e, após esse período, requer uma compra ou registro para uso contínuo.
+  
+* Software de Código Aberto: É um software cujo código-fonte é disponibilizado publicamente, permitindo que outros o vejam, modifiquem e distribuam. Existem várias licenças de código aberto, cada uma com diferentes termos e condições. Alguns exemplos incluem a GPL, LGPL e AGPL.
+  
+* GNU General Public License (GPL): É uma licença de código aberto que impõe requisitos estritos de código aberto. Qualquer software derivado de um software licenciado sob a GPL deve ser licenciado sob a GPL, garantindo que as modificações também sejam de código aberto.
+  
+* Copyleft: É uma abordagem que utiliza licenças de código aberto, como a GPL, para garantir que todas as versões modificadas e derivadas do software permaneçam abertas e de código aberto.
+
+
+No GitHub, quando um repositório é criado, os desenvolvedores podem escolher a licença que melhor se adequa ao seu projeto. Algumas das licenças mais comuns incluem a MIT License, Apache License, GPL, LGPL, BSD License, e muitas outras.
+
+
+## Direito Autoral
+
+- A Lei nº. 9.609/98, também conhecida como a "Lei de Software" no Brasil, estabelece as regras e direitos relacionados a software como obra autoral. Essa legislação foi criada para proteger os direitos autorais e regulamentar a utilização, reprodução, distribuição e comercialização de programas de computador no país.
+
+* Definição de Software: A lei define software como um conjunto organizado de instruções em linguagem natural ou codificada, contida em suporte físico ou lógico, de maneira que seja capaz de fazer um computador funcionar de uma determinada maneira.
+
+* Proteção dos Direitos Autorais: O software é considerado uma obra autoral protegida por direitos autorais, de acordo com a legislação brasileira. Isso significa que o autor ou detentor dos direitos autorais tem o direito exclusivo de reproduzir, distribuir, modificar e comercializar o software.
+
+* Licenças de Software: A lei permite que os autores ou detentores de direitos autorais concedam licenças de uso do software. Isso significa que, embora os direitos autorais sejam protegidos, os autores podem permitir que outros usem, modifiquem ou distribuam o software sob certas condições específicas, conforme estabelecido na licença.
+
+* Pirataria de Software: A Lei nº. 9.609/98 também aborda a questão da pirataria de software. A reprodução não autorizada de software é considerada ilegal e sujeita a penalidades, como multas e sanções criminais.
+
+* Registro de Software: Embora a lei não exija o registro de software para que ele seja protegido por direitos autorais, é recomendável que os autores registrem suas obras no Instituto Nacional de Propriedade Industrial (INPI) para fins de prova e proteção adicionais.
+
+* Termo de Proteção: Os direitos autorais sobre software têm uma duração de 50 anos contados a partir de 1º de janeiro do ano subsequente ao da sua publicação ou, na ausência desta, da sua criação.
+
